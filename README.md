@@ -30,7 +30,7 @@ javadoc_html/
   -- index.html
   # **4. Descrizione delle classi**
 
-### ✔ **ProcessManager**
+###  **ProcessManager**
 
 -   Avvia i due thread di produzione
     
